@@ -1,16 +1,18 @@
-### Hi there 👋
+### Ola sejam bem-vindo ao meu perfil 👋
 
-<!--
-**Stefannyvane23/Stefannyvane23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### sobre a Vanessa
+Meu nome e vanessa, tenho 21 anos sou apaixonada pela area do TI
+atualmente estou me aprofundando na parte da programação
+Estou realizando bootcamps e cursos para aprender e aprimorar minha habilidades
 
-Here are some ideas to get you started:
+### Detalhes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefannyvane23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projeto 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stefannyvane23&repo=Tik-Tok-Clone-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefannyvane23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
